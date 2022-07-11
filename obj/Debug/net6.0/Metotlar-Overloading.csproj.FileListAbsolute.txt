@@ -1,0 +1,15 @@
+C:\Users\Turku\Desktop\Pratikler\Metotlar-Overloading\bin\Debug\net6.0\Metotlar-Overloading.exe
+C:\Users\Turku\Desktop\Pratikler\Metotlar-Overloading\bin\Debug\net6.0\Metotlar-Overloading.deps.json
+C:\Users\Turku\Desktop\Pratikler\Metotlar-Overloading\bin\Debug\net6.0\Metotlar-Overloading.runtimeconfig.json
+C:\Users\Turku\Desktop\Pratikler\Metotlar-Overloading\bin\Debug\net6.0\Metotlar-Overloading.dll
+C:\Users\Turku\Desktop\Pratikler\Metotlar-Overloading\bin\Debug\net6.0\Metotlar-Overloading.pdb
+C:\Users\Turku\Desktop\Pratikler\Metotlar-Overloading\obj\Debug\net6.0\Metotlar-Overloading.csproj.AssemblyReference.cache
+C:\Users\Turku\Desktop\Pratikler\Metotlar-Overloading\obj\Debug\net6.0\Metotlar-Overloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Turku\Desktop\Pratikler\Metotlar-Overloading\obj\Debug\net6.0\Metotlar-Overloading.AssemblyInfoInputs.cache
+C:\Users\Turku\Desktop\Pratikler\Metotlar-Overloading\obj\Debug\net6.0\Metotlar-Overloading.AssemblyInfo.cs
+C:\Users\Turku\Desktop\Pratikler\Metotlar-Overloading\obj\Debug\net6.0\Metotlar-Overloading.csproj.CoreCompileInputs.cache
+C:\Users\Turku\Desktop\Pratikler\Metotlar-Overloading\obj\Debug\net6.0\Metotlar-Overloading.dll
+C:\Users\Turku\Desktop\Pratikler\Metotlar-Overloading\obj\Debug\net6.0\refint\Metotlar-Overloading.dll
+C:\Users\Turku\Desktop\Pratikler\Metotlar-Overloading\obj\Debug\net6.0\Metotlar-Overloading.pdb
+C:\Users\Turku\Desktop\Pratikler\Metotlar-Overloading\obj\Debug\net6.0\Metotlar-Overloading.genruntimeconfig.cache
+C:\Users\Turku\Desktop\Pratikler\Metotlar-Overloading\obj\Debug\net6.0\ref\Metotlar-Overloading.dll
